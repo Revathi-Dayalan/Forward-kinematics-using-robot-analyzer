@@ -61,4 +61,4 @@ Thus, the forward kinematics using DH paramerters for a 4 and 6 dof robot using 
 
 
 
-### RESULTS :  
+
